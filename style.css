@@ -1,0 +1,78 @@
+.div {
+    background-color: #fff;
+    padding: 26px 20px 8px; 
+}
+.div-2 {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.div-3 {
+    color: #000;
+    font: 400 40px Work Sans, sans-serif; /* Adjusted font size */
+}
+.div-4 {
+    width: 100%; 
+    margin: 33px 0 0; 
+}
+.div-5 {
+    display: flex;
+    flex-wrap: wrap;
+}
+.column {
+    width: 50%; screens 
+    margin-left: 0; 
+}
+.div-6 {
+    font: 400 34px/28px Work Sans, sans-serif;
+  text-align: right;
+}
+.column-2 {
+    width: 100%; /* Adjusted width for smaller screens */
+    margin-left: 0; /* Removed left margin */
+}
+
+.img {
+    width: 50%;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border: 1px solid rgba(0, 0, 0, 1);
+}
+
+.div-7 {
+    width: 100%; /* Adjusted width to fit within container */
+    margin-top: 84px;
+}
+
+.div-8 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.column-3,
+.column-4,
+.column-5,
+.column-6 {
+    width: 100%; /* Adjusted width for smaller screens */
+    margin-left: 0; /* Removed left margin */
+}
+
+.div-9,
+.div-10,
+.div-11,
+.div-12 {
+    width: 100%; /* Adjusted width for smaller screens */
+    margin-top: 40px; /* Adjusted margin for smaller screens */
+}
+
+.div-13 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 40px; /* Adjusted margin for smaller screens */
+}
+
+.img-2 {
+    width: 60%; /* Adjusted width to fit within container */
+    max-width: 130px; /* Adjusted max-width for smaller screens */
+}
